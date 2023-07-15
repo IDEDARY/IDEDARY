@@ -23,14 +23,18 @@
 
 ## 
 
-<p align="left">
-<a href="https://github.com/bytestring-net/bevy_lunex"><img width='350em' src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=Bevy_Lunex&theme=onedark"></a>
-</p>
+<div align="left">
+  <a href="https://github.com/bytestring-net/bevy_lunex"><img height=150em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=Bevy_Lunex&hide_border=true&theme=onedark"></a>
+</div>
 
 
 
 ## 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IDEDARY&layout=compact&hide=game%20maker%20language,yacc&hide_border=true&theme=onedark)
-![Top Langs](https://github-readme-stats.vercel.app/api?username=IDEDARY&&show_icons=true&hide_border=true&theme=onedark)
-![Top Langs](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IDEDARY&theme=onedark)
+<div align="left">
+  <a href="https://github.com/idedary"><img height=175em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IDEDARY&theme=onedark"></a>
+  <a href="https://github.com/idedary"><img height=175em src="https://github-readme-stats.vercel.app/api?username=IDEDARY&&show_icons=true&hide_border=true&theme=onedark&card_width=100"></a>
+</div>
+
+<a href="https://github.com/idedary"><img height=175em src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDEDARY&layout=compact&hide=game%20maker%20language,yacc&hide_border=true&theme=onedark&card_width=810"></a>
+
