@@ -24,7 +24,7 @@
 ## 
 
 <div align="left">
-  <a href="https://github.com/bytestring-net/bevy_lunex"><img height=150em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=Bevy_Lunex&hide_border=true&theme=onedark"></a>
+  <a href="https://github.com/bytestring-net/bevy-lunex"><img height=150em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=bevy-lunex&hide_border=true&theme=onedark"></a>
 </div>
 
 
