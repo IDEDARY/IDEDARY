@@ -27,6 +27,7 @@
   <a href="https://github.com/bytestring-net/bevy-lunex"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=bevy-lunex&hide_border=true&theme=onedark"></a>
   <a href="https://github.com/IDEDARY/bevy-lunex-cyberpunk"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=idedary&repo=bevy-lunex-cyberpunk&hide_border=true&theme=onedark"></a>
   <a href="https://github.com/bytestring-net/mathio"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=mathio&hide_border=true&theme=onedark"></a>
+  <a href="https://github.com/idedary/stardawn"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=idedary&repo=stardawn&hide_border=true&theme=onedark"></a>
 </div>
 
 
