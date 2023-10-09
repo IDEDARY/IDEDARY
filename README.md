@@ -17,9 +17,9 @@
     <a href="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif"><img height=30em src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript"></a>
 </div>
 <div align="center">
-    <a href=""><img height=30em src="https://img.shields.io/badge/Aseprite-%2320232a?style=for-the-badge&logo=Aseprite&logoColor=white"></a>
-    <a href=""><img height=30em src="https://img.shields.io/badge/blender-%2320232a?style=for-the-badge&logo=blender"></a>
-    <a href=""><img height=30em src="https://img.shields.io/badge/Inkscape-%2320232a?style=for-the-badge&logo=inkscape"></a>
+    <a href="https://www.aseprite.org"><img height=30em src="https://img.shields.io/badge/Aseprite-%2320232a?style=for-the-badge&logo=Aseprite&logoColor=white"></a>
+    <a href="https://www.blender.org"><img height=30em src="https://img.shields.io/badge/blender-%2320232a?style=for-the-badge&logo=blender"></a>
+    <a href="https://inkscape.org"><img height=30em src="https://img.shields.io/badge/Inkscape-%2320232a?style=for-the-badge&logo=inkscape"></a>
 </div>
 <div align="center">
     <a href="https://vscodium.com"><img height=30em src="https://img.shields.io/badge/VSCodium-%2320232a?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue"></a>
