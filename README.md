@@ -1,44 +1,42 @@
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/idedary)
-##
+<br>
+<br>
+<br>
 
-|||
-[![arch-linux](https://img.shields.io/badge/Arch_Linux-1793D1?style=for-the-badge&logo=arch-linux&logoColor=white)](https://archlinux.org)
-[![mint-linux](https://img.shields.io/badge/Linux_Mint-87CF3E?style=for-the-badge&logo=linux-mint&logoColor=white)](https://linuxmint.com)
-|||
-[![vscodium](https://img.shields.io/badge/VSCodium-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://vscodium.com)
-[![git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com)
-[![docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com)
-|||
+<h1 align="center">1D3D4RY</h1>
 
-|||
-[![rust](https://img.shields.io/badge/Rust-black?style=for-the-badge&logo=rust&logoColor=#E57324)](https://www.rust-lang.org)
-[![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
-[![javascript](https://img.shields.io/badge/JavaScript-424340?style=for-the-badge&logo=javascript&logoColor=F7DF1E)](https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif)
-|||
-[![vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vuedotjs&logoColor=4FC08D)](https://vuejs.org)
-[![tauri](https://img.shields.io/badge/Tauri-FFC131?style=for-the-badge&logo=Tauri&logoColor=black)](https://tauri.app)
-[![skytable](https://img.shields.io/badge/☁️%20skytable-246661.svg?&style=for-the-badge&logoColor=white)](https://skytable.io)
-|||
-
-
-
-## 
-
-<div align="left">
-  <a href="https://github.com/bytestring-net/bevy-lunex"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=bevy-lunex&hide_border=true&theme=onedark"></a>
-  <a href="https://github.com/IDEDARY/bevy-lunex-cyberpunk"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=idedary&repo=bevy-lunex-cyberpunk&hide_border=true&theme=onedark"></a>
-  <a href="https://github.com/bytestring-net/mathio"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=mathio&hide_border=true&theme=onedark"></a>
-  <a href="https://github.com/bytestring-net/pathio"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=bytestring-net&repo=pathio&hide_border=true&theme=onedark"></a>
-  <a href="https://github.com/idedary/stardawn"><img height=140em src="https://github-readme-stats.vercel.app/api/pin/?username=idedary&repo=stardawn&hide_border=true&theme=onedark"></a>
+<div align="center">
+    <a href="https://skytable.io"><img height=30em src="https://img.shields.io/badge/Skytable-%2320232a?&style=for-the-badge&logo=icloud&logoColor=blue"></a>
+    <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri"></a>
+    <a href="https://nuxt.com"><img height=30em src="https://img.shields.io/badge/Nuxt-%2320232a?style=for-the-badge&logo=nuxtdotjs"></a>
+    <a href="https://vuejs.org"><img height=30em src="https://img.shields.io/badge/Vue.js-%2320232a?style=for-the-badge&logo=vuedotjs"></a>
+</div>
+<div align="center">
+    <a href="https://www.rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=orange"></a>
+    <a href="https://www.python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python"></a>
+    <a href="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif"><img height=30em src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript"></a>
+</div>
+<div align="center">
+    <a href=""><img height=30em src="https://img.shields.io/badge/Aseprite-%2320232a?style=for-the-badge&logo=Aseprite&logoColor=white"></a>
+    <a href=""><img height=30em src="https://img.shields.io/badge/blender-%2320232a?style=for-the-badge&logo=blender"></a>
+    <a href=""><img height=30em src="https://img.shields.io/badge/Inkscape-%2320232a?style=for-the-badge&logo=inkscape"></a>
+</div>
+<div align="center">
+    <a href="https://vscodium.com"><img height=30em src="https://img.shields.io/badge/VSCodium-%2320232a?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue"></a>
+    <a href="https://git-scm.com"><img height=30em src="https://img.shields.io/badge/GIT-%2320232a?style=for-the-badge&logo=git&logoColor=E44C30"></a>
+    <a href="https://www.docker.com"><img height=30em src="https://img.shields.io/badge/Docker-%2320232a?style=for-the-badge&logo=docker"></a>
+</div>
+<div align="center">
+    <a href="https://archlinux.org"><img height=30em src="https://img.shields.io/badge/Arch_Linux-%2320232a?style=for-the-badge&logo=arch-linux"></a>
+    <a href="https://linuxmint.com"><img height=30em src="https://img.shields.io/badge/Linux_Mint-%2320232a?style=for-the-badge&logo=linux-mint"></a>
 </div>
 
+#
 
-
-## 
-
-<div align="left">
-  <a href="https://github.com/idedary"><img height=146em src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=IDEDARY&theme=onedark"></a>
-  <a href="https://github.com/idedary"><img height=146em src="https://github-readme-stats.vercel.app/api?username=IDEDARY&&show_icons=true&hide_border=true&theme=onedark&card_width=100"></a>
-  <a href="https://github.com/idedary"><img height=175em src="https://github-readme-stats.vercel.app/api/top-langs/?username=IDEDARY&layout=compact&hide=game%20maker%20language,yacc&hide_border=true&theme=onedark&card_width=810"></a>
+<div align="center">
+Your favourite creator. <br>
+A game developer by heart. <br>
+A software engineer by mind.<br>
+<br>
+<p>A maintainer of UI library <b><a href="https://github.com/bytestring-net/bevy-lunex">Lunex</a><b>.</p>
 </div>
-
