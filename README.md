@@ -6,20 +6,20 @@
 <h1 align="center">1D3D4RY</h1>
 
 <div align="center">
-    <a href="https://skytable.io"><img height=30em src="https://img.shields.io/badge/Skytable-%2320232a?&style=for-the-badge&logo=icloud&logoColor=blue"></a>
-    <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri"></a>
-    <a href="https://nuxt.com"><img height=30em src="https://img.shields.io/badge/Nuxt-%2320232a?style=for-the-badge&logo=nuxtdotjs"></a>
-    <a href="https://vuejs.org"><img height=30em src="https://img.shields.io/badge/Vue.js-%2320232a?style=for-the-badge&logo=vuedotjs"></a>
-</div>
-<div align="center">
-    <a href="https://www.rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=orange"></a>
-    <a href="https://www.python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python"></a>
-    <a href="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif"><img height=30em src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript"></a>
+    <a href="https://skytable.io"><img height=30em src="https://img.shields.io/badge/☁️%20Skytable-%2320232a?&style=for-the-badge&logoColor=blue"></a>
+    <a href="https://vuejs.org"><img height=30em src="https://img.shields.io/badge/🐘%20SQL-%2320232a?style=for-the-badge&logoColor=blue"></a>
+    <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri&logoColor="></a>
+    <a href="https://svelte.com"><img height=30em src="https://img.shields.io/badge/Svelte-%2320232a?style=for-the-badge&logo=svelte&logoColor=orange"></a>
 </div>
 <div align="center">
     <a href="https://www.aseprite.org"><img height=30em src="https://img.shields.io/badge/Aseprite-%2320232a?style=for-the-badge&logo=Aseprite&logoColor=white"></a>
     <a href="https://www.blender.org"><img height=30em src="https://img.shields.io/badge/blender-%2320232a?style=for-the-badge&logo=blender"></a>
     <a href="https://inkscape.org"><img height=30em src="https://img.shields.io/badge/Inkscape-%2320232a?style=for-the-badge&logo=inkscape"></a>
+</div>
+<div align="center">
+    <a href="https://www.rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=orange"></a>
+    <a href="https://www.python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python"></a>
+    <a href="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif"><img height=30em src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript"></a>
 </div>
 <div align="center">
     <a href="https://vscodium.com"><img height=30em src="https://img.shields.io/badge/VSCodium-%2320232a?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue"></a>
