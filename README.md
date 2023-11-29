@@ -7,8 +7,8 @@
 
 <div align="center">
     <a href="https://skytable.io"><img height=30em src="https://img.shields.io/badge/☁️%20Skytable-%2320232a?&style=for-the-badge&logoColor=blue"></a>
-    <a href="https://vuejs.org"><img height=30em src="https://img.shields.io/badge/🐘%20SQL-%2320232a?style=for-the-badge&logoColor=blue"></a>
-    <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri&logoColor="></a>
+    <a href="https://www.postgresql.org"><img height=30em src="https://img.shields.io/badge/🐘%20SQL-%2320232a?style=for-the-badge&logoColor=blue"></a>
+    <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri&logoColor=yellow"></a>
     <a href="https://svelte.com"><img height=30em src="https://img.shields.io/badge/Svelte-%2320232a?style=for-the-badge&logo=svelte&logoColor=orange"></a>
 </div>
 <div align="center">
@@ -19,7 +19,7 @@
 <div align="center">
     <a href="https://www.rust-lang.org"><img height=30em src="https://img.shields.io/badge/Rust-%2320232a?style=for-the-badge&logo=rust&logoColor=orange"></a>
     <a href="https://www.python.org"><img height=30em src="https://img.shields.io/badge/Python-%2320232a?style=for-the-badge&logo=python"></a>
-    <a href="https://em-content.zobj.net/source/animated-noto-color-emoji/356/pile-of-poo_1f4a9.gif"><img height=30em src="https://img.shields.io/badge/JavaScript-%2320232a?style=for-the-badge&logo=javascript"></a>
+    <a href="https://www.typescriptlang.org"><img height=30em src="https://img.shields.io/badge/TypeScript-%2320232a?style=for-the-badge&logo=typescript"></a>
 </div>
 <div align="center">
     <a href="https://vscodium.com"><img height=30em src="https://img.shields.io/badge/VSCodium-%2320232a?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue"></a>
