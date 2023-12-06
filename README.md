@@ -9,7 +9,7 @@
     <a href="https://surrealdb.com"><img height=30em src="https://img.shields.io/badge/Surreal-%2320232a?style=for-the-badge&logo=surrealdb&logoColor=FF00A0"></a>
     <a href="https://skytable.io"><img height=30em src="https://img.shields.io/badge/☁️%20Skytable-%2320232a?&style=for-the-badge&logoColor=blue"></a>
     <a href="https://tauri.app"><img height=30em src="https://img.shields.io/badge/Tauri-%2320232a?style=for-the-badge&logo=tauri&logoColor=yellow"></a>
-    <a href="https://svelte.com"><img height=30em src="https://img.shields.io/badge/Svelte-%2320232a?style=for-the-badge&logo=svelte&logoColor=orange"></a>
+    <a href="https://svelte.dev"><img height=30em src="https://img.shields.io/badge/Svelte-%2320232a?style=for-the-badge&logo=svelte&logoColor=orange"></a>
 </div>
 <div align="center">
     <a href="https://www.aseprite.org"><img height=30em src="https://img.shields.io/badge/Aseprite-%2320232a?style=for-the-badge&logo=Aseprite&logoColor=white"></a>
