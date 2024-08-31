@@ -26,7 +26,7 @@
     <a href="https://docker.com"><img height=30em src="https://img.shields.io/badge/Docker-%2320232a?style=for-the-badge&logo=docker"></a>
 </div>
 <div align="center">
-    <a href="https://archlinux.org"><img height=30em src="https://img.shields.io/badge/nix_os-%2320232a?style=for-the-badge&logo=nixos"></a>
+    <a href="https://nixos.org"><img height=30em src="https://img.shields.io/badge/nix_os-%2320232a?style=for-the-badge&logo=nixos"></a>
     <a href="https://linuxmint.com"><img height=30em src="https://img.shields.io/badge/Linux_Mint-%2320232a?style=for-the-badge&logo=linux-mint"></a>
     
 </div>
