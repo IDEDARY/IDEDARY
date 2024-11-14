@@ -37,6 +37,6 @@
     A game developer by heart. <br>
     A software engineer by mind.<br>
     <br>
-    <p>A maintainer of UI library <b><a href="https://github.com/bytestring-net/bevy-lunex">Lunex</a></b>.</p>
+    <p>Author & maintainer of UI library <b><a href="https://github.com/bytestring-net/bevy-lunex">Lunex</a></b>.</p>
     Rust and Bevy are my preferred tools.
 </div>
