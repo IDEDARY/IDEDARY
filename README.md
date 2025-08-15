@@ -34,8 +34,8 @@
 #
 
 <div align="center">
-    A game developer by heart. <br>
-    A software engineer by mind.<br>
+    My GitHub activity might be low right now <br>
+    as I discovered the art of self-hosting<br>
     <br>
     <p>Author & maintainer of UI library <b><a href="https://github.com/bytestring-net/bevy-lunex">Lunex</a></b>.</p>
     Rust and Bevy are my preferred tools.
